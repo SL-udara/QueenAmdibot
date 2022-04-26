@@ -82,8 +82,7 @@ Install their own plugins to the original software and use as they please.
 Usage is entirely the responsibility of the user. The operating system is not responsible.
 HAVE A FUN!
 ```
-										<tr>
-												<td><a 		
+											
 
 ### License
 This project is protected by the `GNU General Public License v3.0.`
